@@ -6,6 +6,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
 
 import com.coetzee.kobus.interactivestory.R;
+import com.coetzee.kobus.interactivestory.model.Page;
 
 public class StoryActivity extends AppCompatActivity {
 
